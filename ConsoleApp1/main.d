@@ -21,7 +21,7 @@ int main(string[] argv)
 	array ~= 1;
 	array ~= [2,3];
 
-	// Write out
+	// Write out elements in the array + the total of the array
 	writeln("Sum of the array ",array," is ", sum(array));
 	readln();
 
