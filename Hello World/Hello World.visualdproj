@@ -1,0 +1,16 @@
+<DProject>
+ <ProjectGuid>9d9ee303-e06f-4681-a4cb-fdebba26c8fb</ProjectGuid>
+ <Config name="Debug" platform="Win32">
+  <!-- default to defaults -->
+ </Config>
+ <Config name="Release" platform="Win32">
+  </Config>
+ <Config name="Debug" platform="x64">
+  <!-- default to defaults -->
+ </Config>
+ <Config name="Release" platform="x64">
+  </Config>
+ <Folder name="Hello_World">
+  <File path="main.d" />
+ </Folder>
+</DProject>
