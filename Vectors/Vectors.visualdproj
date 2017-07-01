@@ -1,0 +1,16 @@
+<DProject>
+ <ProjectGuid>9a834ffe-4ada-4d9e-ad53-ae830c7a49c6</ProjectGuid>
+ <Config name="Debug" platform="Win32">
+  <!-- default to defaults -->
+ </Config>
+ <Config name="Release" platform="Win32">
+  </Config>
+ <Config name="Debug" platform="x64">
+  <!-- default to defaults -->
+ </Config>
+ <Config name="Release" platform="x64">
+  </Config>
+ <Folder name="Vectors">
+  <File path="main.d" />
+ </Folder>
+</DProject>

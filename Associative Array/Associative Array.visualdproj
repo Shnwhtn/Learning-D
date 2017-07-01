@@ -1,0 +1,16 @@
+<DProject>
+ <ProjectGuid>1c26eaa3-763b-472a-8ec9-87e4aca3c5d0</ProjectGuid>
+ <Config name="Debug" platform="Win32">
+  <!-- default to defaults -->
+ </Config>
+ <Config name="Release" platform="Win32">
+  </Config>
+ <Config name="Debug" platform="x64">
+  <!-- default to defaults -->
+ </Config>
+ <Config name="Release" platform="x64">
+  </Config>
+ <Folder name="Associative_Array">
+  <File path="main.d" />
+ </Folder>
+</DProject>

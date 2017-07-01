@@ -1,0 +1,16 @@
+<DProject>
+ <ProjectGuid>5e6bfa09-7324-4bc1-835d-e2f35661c313</ProjectGuid>
+ <Config name="Debug" platform="Win32">
+  <!-- default to defaults -->
+ </Config>
+ <Config name="Release" platform="Win32">
+  </Config>
+ <Config name="Debug" platform="x64">
+  <!-- default to defaults -->
+ </Config>
+ <Config name="Release" platform="x64">
+  </Config>
+ <Folder name="Exceptions">
+  <File path="main.d" />
+ </Folder>
+</DProject>
